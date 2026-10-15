@@ -115,7 +115,7 @@ quote: "Simplicity is prerequisite for reliability."
 ### ⚡ Recent Activity & Commits
 <!-- Tự động cập nhật những commit và hoạt động mới nhất qua GitHub Actions -->
 <!--START_SECTION:activity-->
-* 🚀 Hoạt động mới nhất sẽ tự động cập nhật tại đây khi bạn commit mã nguồn...
+1. 🎉 Merged PR [#121](https://github.com/BryannLee202/SEAL_HACKATHON/pull/121) in [BryannLee202/SEAL_HACKATHON](https://github.com/BryannLee202/SEAL_HACKATHON)
 <!--END_SECTION:activity-->
 
 <hr/>
