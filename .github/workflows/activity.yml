@@ -1,0 +1,25 @@
+name: Update Recent GitHub Activity
+
+on:
+  schedule:
+    # Tự động quét và cập nhật mỗi 3 tiếng
+    - cron: "0 */3 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    name: Update Activity
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: "chore: auto-update recent activity"
+          MAX_LINES: 8

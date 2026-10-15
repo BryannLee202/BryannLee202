@@ -112,7 +112,15 @@ quote: "Simplicity is prerequisite for reliability."
 
 <hr/>
 
-### 🏙️ 3D Contribution Graph
+### ⚡ Recent Activity & Commits
+<!-- Tự động cập nhật những commit và hoạt động mới nhất qua GitHub Actions -->
+<!--START_SECTION:activity-->
+* 🚀 Hoạt động mới nhất sẽ tự động cập nhật tại đây khi bạn commit mã nguồn...
+<!--END_SECTION:activity-->
+
+<hr/>
+
+### 🏙️ 3D Isometric Contribution Graph
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/BryannLee202/BryannLee202/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
@@ -132,10 +140,10 @@ quote: "Simplicity is prerequisite for reliability."
 
 <div align="center">
   <a href="https://github.com/BryannLee202">
-    <img src="https://github-readme-stats.vercel.app/api?username=BryannLee202&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" alt="BryannLee202's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=BryannLee202&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" width="48%" alt="BryannLee202's GitHub Stats" />
   </a>
   <a href="https://github.com/BryannLee202">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryannLee202&layout=compact&theme=radical&hide_border=true" width="48%" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryannLee202&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" width="48%" alt="Top Languages" />
   </a>
 </div>
 
@@ -143,7 +151,7 @@ quote: "Simplicity is prerequisite for reliability."
 
 <div align="center">
   <a href="https://github.com/BryannLee202">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=BryannLee202&theme=radical&hide_border=true" width="97%" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=BryannLee202&theme=radical&hide_border=true&cache_seconds=1800" width="97%" alt="GitHub Streak" />
   </a>
 </div>
 
@@ -170,5 +178,5 @@ quote: "Simplicity is prerequisite for reliability."
 ---
 
 <div align="center">
-  <sub>Designed with ❤️ by <a href="https://github.com/BryannLee202">BryannLee202</a> • Powered by GitHub Actions &amp; 3D SVG Magic</sub>
+  <sub>⚡ Fully Automated by GitHub Actions • Designed with ❤️ by <a href="https://github.com/BryannLee202">BryannLee202</a></sub>
 </div>
