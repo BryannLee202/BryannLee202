@@ -1,18 +1,14 @@
+<!-- 🪐 UNIVERSE 3D ROTATING BANNER (Inspired by TrungQuanDev) -->
 <div align="center">
+  <img src="https://raw.githubusercontent.com/BryannLee202/BryannLee202/main/svg/profile-banner.svg" width="100%" alt="Bryan Lee - 3D Universe Portfolio" />
+</div>
 
-  <!-- Typing SVG Header -->
-  <a href="https://github.com/BryannLee202">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Bryan+Lee+%F0%9F%91%8B;Full-Stack+Web+%26+Mobile+App+Developer;AI+%2F+Machine+Learning+Engineer;Building+scalable+%26+intelligent+solutions" alt="Typing SVG" />
-  </a>
+<br/>
 
-  <p align="center">
-    <strong>Full-Stack Web & Mobile Developer | AI / ML Engineer</strong><br>
-    <em>Turning complex data & ideas into scalable, intelligent products.</em>
-  </p>
-
+<div align="center">
   <!-- Visitor Counter & Social Badges -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=BryannLee202&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=BryannLee202&label=Profile%20Views&color=00F0FF&style=flat-square" alt="Profile Views" />
     <a href="https://github.com/BryannLee202">
       <img src="https://img.shields.io/github/followers/BryannLee202?label=Followers&style=flat-square&color=24292e" alt="Followers" />
     </a>
@@ -36,18 +32,17 @@
 ### 🚀 About Me
 
 ```yaml
-name: Bryan Lee
+engineer: Bryan Lee
 location: Vietnam 🇻🇳
-passion: Web, Mobile, AI/Deep Learning, System Architecture
-currently_learning: LLM Agents, Fine-tuning Foundation Models, Cloud Native Tech
-goals: Deliver high-performance apps & deploy impactful AI systems into production
-quote: "Code is like humor. When you have to explain it, it’s bad."
+domains: Full-Stack Web, Cross-Platform Mobile, AI / Machine Learning
+focus: LLM Systems, Vision AI, High-concurrency Web & Cloud Apps
+quote: "Simplicity is prerequisite for reliability."
 ```
 
-- 🔭 **Working on:** End-to-end Web & Mobile platforms integrated with LLM & AI workflows.
-- 🌱 **Specialties:** Fullstack Web (Node/React/Next), Mobile (Flutter/React Native), and AI/ML (PyTorch/FastAPI/Hugging Face).
-- 💬 **Ask me about:** JavaScript/TypeScript, Python, Machine Learning Pipelines, App Development.
-- 📫 **Contact:** Drop an email or connect with me on LinkedIn!
+- 🔭 **Currently Building:** AI-augmented web platforms & full-stack intelligent agent pipelines.
+- 📱 **Mobile & Web:** Production-grade Flutter, React Native, Next.js, and Node.js microservices.
+- 🧠 **AI & ML:** PyTorch, Hugging Face, Transformers, FastAPI, and edge deployment.
+- 💬 **Collaborate on:** Scalable architectures, AI integrations, or mobile apps.
 
 <hr/>
 
@@ -117,6 +112,14 @@ quote: "Code is like humor. When you have to explain it, it’s bad."
 
 <hr/>
 
+### 🏙️ 3D Contribution Graph
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/BryannLee202/BryannLee202/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
+</div>
+
+<hr/>
+
 ### 🐍 GitHub Contribution Snake Game
 
 <div align="center">
@@ -167,5 +170,5 @@ quote: "Code is like humor. When you have to explain it, it’s bad."
 ---
 
 <div align="center">
-  <sub>Designed with ❤️ by <a href="https://github.com/BryannLee202">BryannLee202</a> • Powered by GitHub Actions</sub>
+  <sub>Designed with ❤️ by <a href="https://github.com/BryannLee202">BryannLee202</a> • Powered by GitHub Actions &amp; 3D SVG Magic</sub>
 </div>
