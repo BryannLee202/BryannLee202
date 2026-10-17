@@ -5,12 +5,12 @@
 
 <br />
 
-<!-- 👨‍💻 ABOUT ME & CODING ANIMATION -->
+<!-- 👨‍💻 ABOUT ME & 3D WORKSPACE -->
 <img
   align="right"
-  src="https://raw.githubusercontent.com/BryannLee202/BryannLee202/main/assets/developer.gif"
-  width="340"
-  alt="Developer coding setup"
+  src="https://raw.githubusercontent.com/BryannLee202/BryannLee202/main/assets/developer-3d.png"
+  width="440"
+  alt="3D Futuristic AI & Web Developer Workspace"
 />
 
 ### 👨‍💻 About Me
