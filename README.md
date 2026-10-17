@@ -8,9 +8,9 @@
 <!-- 👨‍💻 ABOUT ME & CODING ANIMATION -->
 <img
   align="right"
-  src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif"
-  width="320"
-  alt="Developer coding animation"
+  src="https://raw.githubusercontent.com/BryannLee202/BryannLee202/main/assets/developer.gif"
+  width="340"
+  alt="Developer coding setup"
 />
 
 ### 👨‍💻 About Me
@@ -78,7 +78,7 @@
 
 ### ⚡ Recent Activity & Commits
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#121](https://github.com/BryannLee202/SEAL_HACKATHON/pull/121) in [BryannLee202/SEAL_HACKATHON](https://github.com/BryannLee202/SEAL_HACKATHON)
+* 🚀 Hoạt động mới nhất sẽ tự động cập nhật tại đây khi bạn commit mã nguồn...
 <!--END_SECTION:activity-->
 
 <hr/>
