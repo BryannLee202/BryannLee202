@@ -78,7 +78,7 @@
 
 ### ⚡ Recent Activity & Commits
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/HoRa-W/ComputerVision-GroupF/pull/1) in [HoRa-W/ComputerVision-GroupF](https://github.com/HoRa-W/ComputerVision-GroupF)
+1. 🎉 Merged PR [#1](https://github.com/HoRa-W/ComputerVision-GroupF/pull/1) in [HoRa-W/ComputerVision-GroupF](https://github.com/HoRa-W/ComputerVision-GroupF)
 <!--END_SECTION:activity-->
 
 <hr/>
