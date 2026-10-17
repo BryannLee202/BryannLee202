@@ -5,10 +5,13 @@
 
 <br />
 
-<!-- 👨‍💻 ABOUT ME & 3D ANIMATION (Balanced 2-Column Layout) -->
-<table>
-  <tr>
-    <td valign="top" width="60%">
+<!-- 👨‍💻 ABOUT ME & 3D ANIMATION -->
+<img
+  align="right"
+  src="https://raw.githubusercontent.com/BryannLee202/BryannLee202/main/assets/developer-3d.svg"
+  width="320"
+  alt="3D Futuristic AI & Web Developer Workspace"
+/>
 
 ### 👨‍💻 About Me
 
@@ -37,12 +40,7 @@
   </a>
 </p>
 
-  </td>
-  <td valign="middle" align="center" width="40%">
-    <img src="https://raw.githubusercontent.com/BryannLee202/BryannLee202/main/assets/developer-3d.svg" width="100%" alt="3D Futuristic AI & Web Developer Workspace" />
-  </td>
-</tr>
-</table>
+<br clear="right" />
 
 <hr/>
 
