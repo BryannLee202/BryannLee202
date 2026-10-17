@@ -5,16 +5,13 @@
 
 <br />
 
-<!-- 👨‍💻 3D WORKSPACE SHOWCASE (Centered & Balanced) -->
-<div align="center">
-  <img
-    src="https://raw.githubusercontent.com/BryannLee202/BryannLee202/main/assets/developer-3d.svg"
-    width="680"
-    alt="3D Futuristic AI & Web Developer Workspace"
-  />
-</div>
-
-<br />
+<!-- 👨‍💻 ABOUT ME & 3D ANIMATION (Side-by-side, perfectly filled) -->
+<img
+  align="right"
+  src="https://raw.githubusercontent.com/BryannLee202/BryannLee202/main/assets/developer-3d.svg"
+  width="480"
+  alt="3D Futuristic AI & Web Developer Workspace"
+/>
 
 ### 👨‍💻 About Me
 
@@ -27,21 +24,23 @@
 
 <p align="left">
   <a href="https://github.com/BryannLee202" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png" width="38" alt="GitHub" />
+    <img src="https://img.icons8.com/fluent/48/000000/github.png" width="40" alt="GitHub" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:your-email@example.com">
-    <img src="https://img.icons8.com/fluent/48/000000/mailing.png" width="38" alt="Email" />
+    <img src="https://img.icons8.com/fluent/48/000000/mailing.png" width="40" alt="Email" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="38" alt="LinkedIn" />
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="40" alt="LinkedIn" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://facebook.com" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="38" alt="Facebook" />
+    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="40" alt="Facebook" />
   </a>
 </p>
+
+<br clear="both" />
 
 <hr/>
 
