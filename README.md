@@ -83,15 +83,15 @@
 | 🕒 Thời gian (GMT+7) | Hoạt động |
 | :--- | :--- |
 | 00:21 26-10 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: docs(readme): cập nhật tài liệu bộ kiểm thử đồng thời csdl và phân cô... ([`a377c22`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/a377c22c82f4f50cf6a7c8eecd183862bfd43ee7)) |
+| 00:17 26-10 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: docs(readme): cập nhật toàn diện tài liệu dự án kiến trúc fullstack d... ([`942bfc4`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/942bfc46a539cc44511d0caee5752805659e376e)) |
+| 00:16 26-10 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: feat(frontend): hoàn thiện giao diện trang chủ landing page và danh m... ([`47b844e`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/47b844ebc1b1a9a7c2cbc50a62cd36a27150394a)) |
 | 00:12 26-10 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: feat(backend): hoàn thiện api giám sát buồng nấm vi khí hậu cảm biến ... ([`4981de2`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/4981de25e62fa2b80f19557bc0efbc240ab288df)) |
 | 00:08 26-10 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: docs(baocao): biên soạn tài liệu kỹ thuật phân tích cơ chế khóa dòng ... ([`c44788c`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/c44788cee09d20fa93b8aa4dca6243a764e9cdbc)) |
 | 00:05 26-10 | 💪 Opened PR [#7](https://github.com/BryannLee202/QUAN_TRI_CSDL/pull/7) in [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) |
+| 00:05 26-10 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `feature/concurrency-tests-tai`: docs(baocao): biên soạn tài liệu kỹ thuật phân tích cơ chế khóa dòng ... ([`c44788c`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/c44788cee09d20fa93b8aa4dca6243a764e9cdbc)) |
 | 00:04 26-10 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `feature/concurrency-tests-tai`: test(tsql): bổ sung bộ kiểm thử quy trình gán khay QR và nghiệm thu t... ([`c0344f1`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/c0344f1718b09f2d1aa983f8be7495a77e87482d)) |
 | 00:03 26-10 | 🌿 Created branch `feature/concurrency-tests-tai` in [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) |
 | 23:56 25-10 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: Merge pull request #5 from BryannLee202/feature/backend-auth-api ([`c7c414a`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/c7c414aefb4811c4e74c3108a92010e08a7b9bc6)) |
-| 23:56 25-10 | 👀 Reviewed PR [#5](https://github.com/BryannLee202/QUAN_TRI_CSDL/pull/5) in [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) |
-| 23:53 25-10 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `feature/backend-auth-api`: feat(backend): complete auth logic, dynamic database config and route... ([`b1996ff`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/b1996ff18e8f76134b749da124dbc1a3e43a97a7)) |
-| 19:34 25-10 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: Merge pull request #6 from BryannLee202/feature/docker-simulator-thinh ([`29e40b5`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/29e40b581f13f401130d6dfe4ff46789ab3046fc)) |
 <!--END_SECTION:activity-->
 
 <hr/>
