@@ -78,7 +78,7 @@
 
 ### ⚡ Recent Activity & Commits
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/BryannLee202/QUAN_TRI_CSDL/pull/1) in [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL)
+1. 🗣 Commented on [#4](https://github.com/BryannLee202/QUAN_TRI_CSDL/pull/4#issuecomment-6396461835) in [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL)
 <!--END_SECTION:activity-->
 
 <hr/>
