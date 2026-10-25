@@ -78,7 +78,18 @@
 
 ### ⚡ Recent Activity & Commits
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/BryannLee202/QUAN_TRI_CSDL/pull/4#issuecomment-6396461835) in [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL)
+| 🕒 Thời gian (GMT+7) | Hoạt động |
+| :--- | :--- |
+| 19:34 25-10 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: Merge pull request #6 from BryannLee202/feature/docker-simulator-thinh ([`29e40b5`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/29e40b581f13f401130d6dfe4ff46789ab3046fc)) |
+| 19:34 25-10 | 👀 Reviewed PR [#6](https://github.com/BryannLee202/QUAN_TRI_CSDL/pull/6) in [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) |
+| 19:33 25-10 | 👀 Reviewed PR [#4](https://github.com/BryannLee202/QUAN_TRI_CSDL/pull/4) in [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) |
+| 17:23 25-10 | 🗣 Commented on [#4](https://github.com/BryannLee202/QUAN_TRI_CSDL/pull/4#issuecomment-6396461835) in [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) |
+| 17:23 25-10 | 🗣 Commented on [#5](https://github.com/BryannLee202/QUAN_TRI_CSDL/pull/5#issuecomment-6396459756) in [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) |
+| 19:41 24-10 | 🌿 Created branch `core-tai` in [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) |
+| 19:38 24-10 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: Merge pull request #2 from BryannLee202/feature/trigger-views-huy ([`3a38022`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/3a38022354e7187a631a43515c20492d902bbc33)) |
+| 19:38 24-10 | 👀 Reviewed PR [#2](https://github.com/BryannLee202/QUAN_TRI_CSDL/pull/2) in [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) |
+| 19:37 24-10 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: Merge pull request #3 from BryannLee202/feature/seed-data-huy ([`eaa31f5`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/eaa31f56699755c7da0507b6a6574989e61e1cee)) |
+| 19:37 24-10 | 👀 Reviewed PR [#3](https://github.com/BryannLee202/QUAN_TRI_CSDL/pull/3) in [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) |
 <!--END_SECTION:activity-->
 
 <hr/>

@@ -2,24 +2,52 @@ name: Update Recent GitHub Activity
 
 on:
   schedule:
-    # Tự động quét và cập nhật mỗi 3 tiếng
-    - cron: "0 */3 * * *"
+    # 5 phút là chu kỳ ngắn nhất GitHub cho phép (thực tế có thể trễ vài phút khi GitHub quá tải)
+    - cron: "*/5 * * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
+
+concurrency:
+  group: profile-readme
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  actions: write
 
 jobs:
-  build:
-    name: Update Activity
+  update:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+    timeout-minutes: 5
     steps:
       - uses: actions/checkout@v4
-      - uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: actions/setup-node@v4
         with:
-          COMMIT_MSG: "chore: auto-update recent activity"
-          MAX_LINES: 8
+          node-version: 22
+
+      - name: Build activity section
+        id: activity
+        env:
+          GH_USER: ${{ github.repository_owner }}
+          # PROFILE_TOKEN (tuỳ chọn) = Personal Access Token để đọc cả hoạt động private
+          PROFILE_TOKEN: ${{ secrets.PROFILE_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          MAX_LINES: 10
+        run: node scripts/update-activity.mjs
+
+      - name: Commit & push
+        if: steps.activity.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: update recent activity"
+          git pull --rebase origin main
+          git push
+
+      # Có hoạt động mới -> vẽ lại Snake ngay thay vì chờ lịch
+      - name: Refresh snake graph
+        if: steps.activity.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh workflow run snake.yml --ref main
