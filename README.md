@@ -78,10 +78,11 @@
 
 ### ⚡ Recent Activity & Commits
 <!--START_SECTION:activity-->
-> 📈 **77** commits trong 7 ngày qua · **751** commits trong 12 tháng · **886** contributions
+> 📈 **79** commits trong 7 ngày qua · **753** commits trong 12 tháng · **889** contributions
 
 | 🕒 Thời gian (GMT+7) | Hoạt động |
 | :--- | :--- |
+| 11:18 28-10 | 👀 Reviewed PR [#9](https://github.com/BryannLee202/QUAN_TRI_CSDL/pull/9) in [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) |
 | 23:26 26-10 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: feat(ui): implement dual responsive layout (desktop web full-screen v... ([`37f9808`](https://github.com/BryannLee202/App_ITS/commit/37f9808b3536d2e990e86853eca920522b3bee87)) |
 | 23:10 26-10 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: feat(ui): implement official Xanh SM layout with floating search pill... ([`81565df`](https://github.com/BryannLee202/App_ITS/commit/81565dfe7f467b5daab945aa152f3d706be16d6d)) |
 | 23:07 26-10 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: style(brand): adopt authentic bright Cyan Xanh SM (#00BFA5), light da... ([`1864c89`](https://github.com/BryannLee202/App_ITS/commit/1864c8981906b790e02dc09e5dd32b132b4316f9)) |
@@ -91,7 +92,6 @@
 | 22:36 26-10 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: feat(mobile): add web support for browser preview ([`311ab53`](https://github.com/BryannLee202/App_ITS/commit/311ab53e844b1ede8e7d363f82fbe77bc05aab97)) |
 | 22:29 26-10 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: ci(pipeline): add enterprise GitHub Actions workflow and Docker conta... ([`13434fe`](https://github.com/BryannLee202/App_ITS/commit/13434fe4285cb6f2e387f962d826974bda55c282)) |
 | 22:21 26-10 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: feat(fullstack): initialize complete ITS Smart Vehicle Rental system ... ([`e8e63b6`](https://github.com/BryannLee202/App_ITS/commit/e8e63b68203efb4bf9b968d40f20f28e2caa9fce)) |
-| 22:09 26-10 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: Merge pull request #8 from BryannLee202/feature/frontend-week2-dang ([`afa4fe1`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/afa4fe16b9858594d527c0aae08ad804c982b722)) |
 <!--END_SECTION:activity-->
 
 <hr/>
