@@ -84,6 +84,7 @@
 | :--- | :--- |
 | 14:17 01-11 | 👀 Reviewed PR [#12](https://github.com/BryannLee202/QUAN_TRI_CSDL/pull/12) in [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) |
 | 14:17 01-11 | 👀 Reviewed PR [#13](https://github.com/BryannLee202/QUAN_TRI_CSDL/pull/13) in [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) |
+| 22:01 30-10 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: Merge pull request #11 from BryannLee202/feature/frontend-week3-dang ([`2d2b716`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/2d2b716e9a75b244d54a8560be02be7cf7b1c222)) |
 | 22:01 30-10 | 👀 Reviewed PR [#11](https://github.com/BryannLee202/QUAN_TRI_CSDL/pull/11) in [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) |
 | 21:33 30-10 | 🗣 Commented on [#11](https://github.com/BryannLee202/QUAN_TRI_CSDL/pull/11#issuecomment-6525302080) in [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) |
 | 08:17 29-10 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: docs: cập nhật hướng dẫn demo toàn diện và chuẩn hóa phong cách tài l... ([`62bc6cd`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/62bc6cd18f0ddea3f823d7f6a15716719d84cf73)) |
@@ -91,7 +92,6 @@
 | 08:05 29-10 | 🌿 Created branch `feature/e2e-lifecycle-tai` in [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) |
 | 07:54 29-10 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: Merge pull request #10 from BryannLee202/feature/indexing-performance... ([`8e13c7d`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/8e13c7d315ec341e8e9e23b07a2a0b71150efec3)) |
 | 07:54 29-10 | 👀 Reviewed PR [#10](https://github.com/BryannLee202/QUAN_TRI_CSDL/pull/10) in [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) |
-| 11:22 28-10 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: feat(backend): tích hợp socket.io realtime hub vào express server và ... ([`0165a01`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/0165a01818129e8d0d3839e0cf24ffd1e51e5f76)) |
 <!--END_SECTION:activity-->
 
 <hr/>
