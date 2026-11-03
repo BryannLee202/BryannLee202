@@ -78,11 +78,13 @@
 
 ### ⚡ Recent Activity & Commits
 <!--START_SECTION:activity-->
-> 📈 **24** commits trong 7 ngày qua · **759** commits trong 12 tháng · **899** contributions
+> 📈 **8** commits trong 7 ngày qua · **759** commits trong 12 tháng · **899** contributions
 
 | 🕒 Thời gian (GMT+7) | Hoạt động |
 | :--- | :--- |
+| 14:17 01-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: Merge pull request #12 from BryannLee202/feature/tray\_status\_log\_trig... ([`21e3aa9`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/21e3aa907224a8a4274d2d9be08fd0b3d28b6bb8)) |
 | 14:17 01-11 | 👀 Reviewed PR [#12](https://github.com/BryannLee202/QUAN_TRI_CSDL/pull/12) in [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) |
+| 14:17 01-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: Merge pull request #13 from BryannLee202/feature/indexing-performance... ([`8896d72`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/8896d722d7d40785f186ecd848e2824975550dc3)) |
 | 14:17 01-11 | 👀 Reviewed PR [#13](https://github.com/BryannLee202/QUAN_TRI_CSDL/pull/13) in [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) |
 | 22:01 30-10 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: Merge pull request #11 from BryannLee202/feature/frontend-week3-dang ([`2d2b716`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/2d2b716e9a75b244d54a8560be02be7cf7b1c222)) |
 | 22:01 30-10 | 👀 Reviewed PR [#11](https://github.com/BryannLee202/QUAN_TRI_CSDL/pull/11) in [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) |
@@ -90,8 +92,6 @@
 | 08:17 29-10 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: docs: cập nhật hướng dẫn demo toàn diện và chuẩn hóa phong cách tài l... ([`62bc6cd`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/62bc6cd18f0ddea3f823d7f6a15716719d84cf73)) |
 | 08:06 29-10 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: test(e2e): hoàn thành kịch bản kiểm thử toàn diện vòng đời đơn thuê v... ([`929ac3f`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/929ac3f217ee0dccf6cf5b6048c501004c2ba9db)) |
 | 08:05 29-10 | 🌿 Created branch `feature/e2e-lifecycle-tai` in [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) |
-| 07:54 29-10 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: Merge pull request #10 from BryannLee202/feature/indexing-performance... ([`8e13c7d`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/8e13c7d315ec341e8e9e23b07a2a0b71150efec3)) |
-| 07:54 29-10 | 👀 Reviewed PR [#10](https://github.com/BryannLee202/QUAN_TRI_CSDL/pull/10) in [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) |
 <!--END_SECTION:activity-->
 
 <hr/>
