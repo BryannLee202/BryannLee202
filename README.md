@@ -78,7 +78,7 @@
 
 ### ⚡ Recent Activity & Commits
 <!--START_SECTION:activity-->
-> 📈 **6** commits trong 7 ngày qua · **759** commits trong 12 tháng · **899** contributions
+> 📈 **3** commits trong 7 ngày qua · **759** commits trong 12 tháng · **899** contributions
 
 | 🕒 Thời gian (GMT+7) | Hoạt động |
 | :--- | :--- |
