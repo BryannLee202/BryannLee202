@@ -78,20 +78,20 @@
 
 ### ⚡ Recent Activity & Commits
 <!--START_SECTION:activity-->
-> 📈 **3** commits trong 7 ngày qua · **759** commits trong 12 tháng · **899** contributions
+> 📈 **45** commits trong 7 ngày qua · **801** commits trong 12 tháng · **943** contributions
 
 | 🕒 Thời gian (GMT+7) | Hoạt động |
 | :--- | :--- |
-| 14:17 01-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: Merge pull request #12 from BryannLee202/feature/tray\_status\_log\_trig... ([`21e3aa9`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/21e3aa907224a8a4274d2d9be08fd0b3d28b6bb8)) |
-| 14:17 01-11 | 👀 Reviewed PR [#12](https://github.com/BryannLee202/QUAN_TRI_CSDL/pull/12) in [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) |
-| 14:17 01-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: Merge pull request #13 from BryannLee202/feature/indexing-performance... ([`8896d72`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/8896d722d7d40785f186ecd848e2824975550dc3)) |
-| 14:17 01-11 | 👀 Reviewed PR [#13](https://github.com/BryannLee202/QUAN_TRI_CSDL/pull/13) in [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) |
-| 22:01 30-10 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: Merge pull request #11 from BryannLee202/feature/frontend-week3-dang ([`2d2b716`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/2d2b716e9a75b244d54a8560be02be7cf7b1c222)) |
-| 22:01 30-10 | 👀 Reviewed PR [#11](https://github.com/BryannLee202/QUAN_TRI_CSDL/pull/11) in [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) |
-| 21:33 30-10 | 🗣 Commented on [#11](https://github.com/BryannLee202/QUAN_TRI_CSDL/pull/11#issuecomment-6525302080) in [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) |
-| 08:17 29-10 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: docs: cập nhật hướng dẫn demo toàn diện và chuẩn hóa phong cách tài l... ([`62bc6cd`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/62bc6cd18f0ddea3f823d7f6a15716719d84cf73)) |
-| 08:06 29-10 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: test(e2e): hoàn thành kịch bản kiểm thử toàn diện vòng đời đơn thuê v... ([`929ac3f`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/929ac3f217ee0dccf6cf5b6048c501004c2ba9db)) |
-| 08:05 29-10 | 🌿 Created branch `feature/e2e-lifecycle-tai` in [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) |
+| 20:05 06-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: fix(launcher): triet tieu cua so taskbar, ngan chan Windows 11 EcoQoS... ([`7a43396`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/7a43396e051d5679280f9ce6c80f04b1a12d80ab)) |
+| 18:51 06-11 | 🌿 Created branch `feature/csrf-double-submit` in [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) |
+| 18:43 06-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: Merge branch 'feature/i18n-bilingual': hoan tat he thong song ngu i18n ([`6fd60c4`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/6fd60c4ed5d11a25064deb8992f0bdcb40914917)) |
+| 18:39 06-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: Merge branch 'feature/demo-guide-and-rbac': hoan tat bo tai lieu demo... ([`d64f342`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/d64f342ccc0a7d65fe082fdea12fa68c2a2f58ba)) |
+| 18:21 06-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: Merge branch 'feature/devops-docker-healthcheck-chain': hoan tat Dock... ([`31bc1db`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/31bc1dbe9ae9cb4ee5674cf14d0b0873cc5b8cee)) |
+| 18:20 06-11 | 🌿 Created branch `feature/backend-httponly-cookies` in [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) |
+| 18:16 06-11 | 🌿 Created branch `feature/frontend-tilt-cards` in [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) |
+| 18:01 06-11 | 🌿 Created branch `feature/backend-security-health` in [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) |
+| 17:01 06-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: Merge pull request #14 from BryannLee202/feature/backend-auth-api ([`81bb490`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/81bb490d47bf69cf64b109689fe84a27478eb3a1)) |
+| 17:01 06-11 | 👀 Reviewed PR [#14](https://github.com/BryannLee202/QUAN_TRI_CSDL/pull/14) in [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) |
 <!--END_SECTION:activity-->
 
 <hr/>
