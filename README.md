@@ -82,16 +82,16 @@
 
 | 🕒 Thời gian (GMT+7) | Hoạt động |
 | :--- | :--- |
+| 20:27 06-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: feat(ui): tach buong kinh 3D thuc te va bo sung trinh chuyen doi goc ... ([`707adbb`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/707adbb027f408800797726521a72ca19c69af58)) |
 | 20:05 06-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: fix(launcher): triet tieu cua so taskbar, ngan chan Windows 11 EcoQoS... ([`7a43396`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/7a43396e051d5679280f9ce6c80f04b1a12d80ab)) |
+| 19:55 06-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: perf(dev): toi uu pre-warm compile va tang toc Live Reload 0 giay ([`fb647da`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/fb647da0a9f8f0b3660ba067e1bfd12946873603)) |
+| 19:30 06-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: perf(launcher): toi uu hoa khoi chay sieu toc 0 giay bang production ... ([`33252c0`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/33252c06618a5041fdd6ced0c28956f5d118499e)) |
+| 19:24 06-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: fix(launcher): sua triet de loi ky tu byte offset va don dep thu muc goc ([`55aa005`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/55aa0057bc111c9d46ea164ed0e3bd6aae87a808)) |
+| 19:13 06-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: docs(readme): cap nhat tai lieu README theo format hoc thuat trang tr... ([`314ee07`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/314ee079c730a7c3dade02c4ab6645a8a8b0a5ac)) |
+| 19:11 06-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: docs(devops): soan thao cam nang van hanh production HUONG\_DAN\_VAN\_HA... ([`23d12a7`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/23d12a77cdc1001de7840489e374d171c48ef6da)) |
+| 18:51 06-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: Merge branch 'feature/csrf-double-submit': hoan tat co che bao ve CSR... ([`112ca5a`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/112ca5a7e443f468058bc11a279f04d84203b41a)) |
 | 18:51 06-11 | 🌿 Created branch `feature/csrf-double-submit` in [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) |
-| 18:43 06-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: Merge branch 'feature/i18n-bilingual': hoan tat he thong song ngu i18n ([`6fd60c4`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/6fd60c4ed5d11a25064deb8992f0bdcb40914917)) |
-| 18:39 06-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: Merge branch 'feature/demo-guide-and-rbac': hoan tat bo tai lieu demo... ([`d64f342`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/d64f342ccc0a7d65fe082fdea12fa68c2a2f58ba)) |
-| 18:21 06-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: Merge branch 'feature/devops-docker-healthcheck-chain': hoan tat Dock... ([`31bc1db`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/31bc1dbe9ae9cb4ee5674cf14d0b0873cc5b8cee)) |
-| 18:20 06-11 | 🌿 Created branch `feature/backend-httponly-cookies` in [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) |
-| 18:16 06-11 | 🌿 Created branch `feature/frontend-tilt-cards` in [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) |
-| 18:01 06-11 | 🌿 Created branch `feature/backend-security-health` in [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) |
-| 17:01 06-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: Merge pull request #14 from BryannLee202/feature/backend-auth-api ([`81bb490`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/81bb490d47bf69cf64b109689fe84a27478eb3a1)) |
-| 17:01 06-11 | 👀 Reviewed PR [#14](https://github.com/BryannLee202/QUAN_TRI_CSDL/pull/14) in [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) |
+| 18:45 06-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: Merge branch 'feature/ai-bot-drawer': tich hop tro ly ao nong nghiep ... ([`ce11b4b`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/ce11b4b8535de9b91bc874542fa2c367e6398c50)) |
 <!--END_SECTION:activity-->
 
 <hr/>
