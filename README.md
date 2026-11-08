@@ -82,6 +82,7 @@
 
 | 🕒 Thời gian (GMT+7) | Hoạt động |
 | :--- | :--- |
+| 20:37 06-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: feat(ui): xoa bo hop den, nang cap khung hinh 1376x768 sac net va bo ... ([`4f1bf4c`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/4f1bf4c9670cd611e524c6c40421d1fe36505349)) |
 | 20:27 06-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: feat(ui): tach buong kinh 3D thuc te va bo sung trinh chuyen doi goc ... ([`707adbb`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/707adbb027f408800797726521a72ca19c69af58)) |
 | 20:05 06-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: fix(launcher): triet tieu cua so taskbar, ngan chan Windows 11 EcoQoS... ([`7a43396`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/7a43396e051d5679280f9ce6c80f04b1a12d80ab)) |
 | 19:55 06-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: perf(dev): toi uu pre-warm compile va tang toc Live Reload 0 giay ([`fb647da`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/fb647da0a9f8f0b3660ba067e1bfd12946873603)) |
@@ -91,7 +92,6 @@
 | 19:30 06-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: perf(launcher): toi uu hoa khoi chay sieu toc 0 giay bang production ... ([`33252c0`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/33252c06618a5041fdd6ced0c28956f5d118499e)) |
 | 19:24 06-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: fix(launcher): sua triet de loi ky tu byte offset va don dep thu muc goc ([`55aa005`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/55aa0057bc111c9d46ea164ed0e3bd6aae87a808)) |
 | 19:13 06-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: docs(readme): cap nhat tai lieu README theo format hoc thuat trang tr... ([`314ee07`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/314ee079c730a7c3dade02c4ab6645a8a8b0a5ac)) |
-| 19:11 06-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: docs(devops): soan thao cam nang van hanh production HUONG\_DAN\_VAN\_HA... ([`23d12a7`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/23d12a77cdc1001de7840489e374d171c48ef6da)) |
 <!--END_SECTION:activity-->
 
 <hr/>
