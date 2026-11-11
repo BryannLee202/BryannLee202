@@ -82,16 +82,16 @@
 
 | 🕒 Thời gian (GMT+7) | Hoạt động |
 | :--- | :--- |
+| 08:23 10-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: refactor(ui): Xóa thanh điều hướng dev và vạch trang trí thừa ở đáy m... ([`7971d29`](https://github.com/BryannLee202/App_ITS/commit/7971d29b8da0ff90d65cada6127b173736fcfe02)) |
 | 08:06 10-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: feat(ui): Tích hợp Splash Screen vẽ nét Logo và Micro-interactions từ... ([`9e4b76e`](https://github.com/BryannLee202/App_ITS/commit/9e4b76e9e404e7b4871c8c632e409abf20aaa6b4)) |
+| 22:05 09-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: fix(map): replace CartoDB watermark tiles with official OpenStreetMap... ([`f185552`](https://github.com/BryannLee202/App_ITS/commit/f185552d525bce8072bd126954fd1d37a66b7f21)) |
 | 21:22 09-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: style(ecogo): streamline home layout with spacious 2x2 feature tiles ... ([`fbb41bb`](https://github.com/BryannLee202/App_ITS/commit/fbb41bb9cbc7bce39f2b5fbcd7ff116918e79079)) |
 | 21:07 09-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: style(ecogo): synchronize Fresh Mint (#0CA678), Warm Oat Beige (#F6F3... ([`167abb5`](https://github.com/BryannLee202/App_ITS/commit/167abb5cf73bc3d3d7e2e6f20b59cf42900ca439)) |
+| 20:51 09-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: style(ecogo): redesign with Apple White, Fresh Mint (#0CA678), Warm O... ([`28b1a1c`](https://github.com/BryannLee202/App_ITS/commit/28b1a1ca9a26684ab3ab2b7106b3ba2941d6a434)) |
 | 16:59 09-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: style(ecogo): replace heavy matcha green with Royal Cobalt & Snow Whi... ([`2b22bd7`](https://github.com/BryannLee202/App_ITS/commit/2b22bd764ac6539bc236111f4d91964a34301629)) |
 | 16:47 09-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: feat(ecogo): redesign into original EcoGo Smart Bento Grid layout, ce... ([`9d4fb31`](https://github.com/BryannLee202/App_ITS/commit/9d4fb31d1cb81235dafc9029f1be8dcfd557e968)) |
 | 16:37 09-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: style(ecogo): apply signature Alpine Matcha Jade (#2E7D5B) & Warm San... ([`79dad30`](https://github.com/BryannLee202/App_ITS/commit/79dad304d3e0ba7ad5276573b9949f2cc90287b4)) |
 | 16:31 09-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: feat(ecogo): rebrand app to EcoGo Smart and update fleet to popular b... ([`09f73fa`](https://github.com/BryannLee202/App_ITS/commit/09f73faf20fad3853e9cecddbbaa70dee72bbb59)) |
-| 16:04 09-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: feat(greensm): clone authentic Green SM v5.12.0(437) UI, 3D isometric... ([`a0ac349`](https://github.com/BryannLee202/App_ITS/commit/a0ac3496e070b36485b21114a73a26df26181a8e)) |
-| 15:16 09-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: style(editorial): remove AI-tinted boxes and badges, apply Apple/Uber... ([`5c12040`](https://github.com/BryannLee202/App_ITS/commit/5c12040cf33660dfd672d33cf8615b6c9d5b30a8)) |
-| 15:04 09-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: feat(app): redesign with Apple White, Mint Green & Champagne Beige pa... ([`9db73e4`](https://github.com/BryannLee202/App_ITS/commit/9db73e43b18af8770a766fb1602c2530a1ba4ece)) |
 <!--END_SECTION:activity-->
 
 <hr/>
