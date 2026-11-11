@@ -84,6 +84,7 @@
 | :--- | :--- |
 | 08:23 10-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: refactor(ui): Xóa thanh điều hướng dev và vạch trang trí thừa ở đáy m... ([`7971d29`](https://github.com/BryannLee202/App_ITS/commit/7971d29b8da0ff90d65cada6127b173736fcfe02)) |
 | 08:06 10-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: feat(ui): Tích hợp Splash Screen vẽ nét Logo và Micro-interactions từ... ([`9e4b76e`](https://github.com/BryannLee202/App_ITS/commit/9e4b76e9e404e7b4871c8c632e409abf20aaa6b4)) |
+| 07:22 10-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: feat(auth): Thêm luồng Onboarding & Xác thực OTP 5 bước chuẩn Green SM ([`2ce1c96`](https://github.com/BryannLee202/App_ITS/commit/2ce1c960319e9569b2eac4555f1b7afd0633fd4c)) |
 | 23:57 09-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: chore: add one-click Chay\_He\_Thong\_Live.bat launcher script ([`98e927b`](https://github.com/BryannLee202/App_ITS/commit/98e927b7f329536d2fe2710dd798647b4733331f)) |
 | 22:05 09-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: fix(map): replace CartoDB watermark tiles with official OpenStreetMap... ([`f185552`](https://github.com/BryannLee202/App_ITS/commit/f185552d525bce8072bd126954fd1d37a66b7f21)) |
 | 21:32 09-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: feat(map): integrate live Browser GPS, Nominatim reverse geocoding, O... ([`237c8d7`](https://github.com/BryannLee202/App_ITS/commit/237c8d7f910e189d32d0e2c11cbe21db05f70a8f)) |
@@ -91,7 +92,6 @@
 | 21:07 09-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: style(ecogo): synchronize Fresh Mint (#0CA678), Warm Oat Beige (#F6F3... ([`167abb5`](https://github.com/BryannLee202/App_ITS/commit/167abb5cf73bc3d3d7e2e6f20b59cf42900ca439)) |
 | 20:51 09-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: style(ecogo): redesign with Apple White, Fresh Mint (#0CA678), Warm O... ([`28b1a1c`](https://github.com/BryannLee202/App_ITS/commit/28b1a1ca9a26684ab3ab2b7106b3ba2941d6a434)) |
 | 16:59 09-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: style(ecogo): replace heavy matcha green with Royal Cobalt & Snow Whi... ([`2b22bd7`](https://github.com/BryannLee202/App_ITS/commit/2b22bd764ac6539bc236111f4d91964a34301629)) |
-| 16:47 09-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: feat(ecogo): redesign into original EcoGo Smart Bento Grid layout, ce... ([`9d4fb31`](https://github.com/BryannLee202/App_ITS/commit/9d4fb31d1cb81235dafc9029f1be8dcfd557e968)) |
 <!--END_SECTION:activity-->
 
 <hr/>
