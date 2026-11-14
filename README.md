@@ -83,6 +83,7 @@
 | 🕒 Thời gian (GMT+7) | Hoạt động |
 | :--- | :--- |
 | 19:38 14-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: docs(workflow): thiet lap quy tac tu dong phan chia commit va uu tien... ([`ef1cf2e`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/ef1cf2ef6c91fcfdc57273080c6cdce210f8723a)) |
+| 18:32 14-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: feat: them 28 phuong tien thong dung va xe hang sang cho du khach, su... ([`8a76d14`](https://github.com/BryannLee202/App_ITS/commit/8a76d1421c4327d137bfda85eece5e0e4555c3b9)) |
 | 03:21 14-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: feat: dong bo ti le dien thoai tren web desktop, luu tru va cap nhat ... ([`556b5a6`](https://github.com/BryannLee202/App_ITS/commit/556b5a6a162e85496a9d59572111b2e0906d3952)) |
 | 02:51 14-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: feat: nang cap the EcoGo Race thanh the chung nhan ESG Digital Pass s... ([`b698ef6`](https://github.com/BryannLee202/App_ITS/commit/b698ef6091b4045bd67acb04a28c6d5b7aaa75dd)) |
 | 01:24 14-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: style: thiet ke lai man hinh khoa xe digital key dong bo co chu sang ... ([`ee89c02`](https://github.com/BryannLee202/App_ITS/commit/ee89c027f16fbffe0fe06ebc6fe7b01196b560cb)) |
@@ -91,7 +92,6 @@
 | 22:23 13-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: feat: xoa banner quang cao hero va nang cap modal chon tram mobile-fi... ([`816bfb3`](https://github.com/BryannLee202/App_ITS/commit/816bfb3b1c85460e2a23bf60367f088d113e139d)) |
 | 22:13 13-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: feat: chuyen doi kien truc khoi dong sang powershell sieu on dinh tu ... ([`513f180`](https://github.com/BryannLee202/App_ITS/commit/513f180a1ebf26f609e61b906369176c7d436e9f)) |
 | 19:02 13-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: fix: remove redundant outer white box border and add back button acro... ([`0a3b328`](https://github.com/BryannLee202/App_ITS/commit/0a3b3282e878ee1be51070817d0d5e0c64116b6c)) |
-| 18:57 13-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: feat: complete synchronization of Coffee Brown & Be Sua theme, stream... ([`bbe5e56`](https://github.com/BryannLee202/App_ITS/commit/bbe5e56e3ee8f809eead217554f12216d4747532)) |
 <!--END_SECTION:activity-->
 
 <hr/>
