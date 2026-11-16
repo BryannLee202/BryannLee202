@@ -78,20 +78,20 @@
 
 ### ⚡ Recent Activity & Commits
 <!--START_SECTION:activity-->
-> 📈 **130** commits trong 7 ngày qua · **931** commits trong 12 tháng · **1074** contributions
+> 📈 **158** commits trong 7 ngày qua · **959** commits trong 12 tháng · **1102** contributions
 
 | 🕒 Thời gian (GMT+7) | Hoạt động |
 | :--- | :--- |
+| 22:45 16-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: feat: cau hinh trien khai cloud 24 7 tren vercel va render ([`dc6b25f`](https://github.com/BryannLee202/App_ITS/commit/dc6b25fece8622ffd70880fa4f751cfca9e281ab)) |
+| 22:29 16-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: feat: tinh nang doi avatar nguoi dung va tu dong dong bo thong tin kh... ([`357facf`](https://github.com/BryannLee202/App_ITS/commit/357facf295e85740d911835d44281b6d2b6afb89)) |
+| 20:37 16-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: chore(repo): don dep repository toi uu gitignore va bo sung tai lieu ... ([`1fdc910`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/1fdc910877b99c80ca2b5158df6aa19061d6a398)) |
+| 19:13 16-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: feat(frontend): tich hop MushroomBot AI Llama-3.1-8B vao Drawer va Ri... ([`baf3ba3`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/baf3ba33795308a3948bbe8aa1f1bf0322b93a60)) |
+| 18:59 16-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: style(hero): thiet ke lai he thong icon 3D da lop trang trong va chan... ([`b8a91e3`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/b8a91e35318e8561c5b99aa75c9916c3e8ddf948)) |
+| 18:43 16-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: feat(ui): tach mau nhip dieu phan vung Sang - Toi cong nghe cao va do... ([`b7bdb84`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/b7bdb842de8804d7943ae04a6a7c7995d7bca3d0)) |
+| 18:29 16-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: feat(ui): chuyen tien ich cai dat vao sidebar ben phai va dong bo tha... ([`285d25c`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/285d25c5143fb0a570051784ef639d4a9e53c4cc)) |
+| 16:02 16-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: feat(nav): tich hop May Tinh Loi Nhuan, San Nong San va Mang Luoi Far... ([`4a15535`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/4a1553529e6f8629f972f19ff92dba9c8a1aa5cc)) |
 | 11:32 16-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: fix(landing): khoi phuc anh buong kinh 3D sach loai bo chu loi Mini s... ([`98a7690`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/98a769003d04da17c89f1379f4011f6bd26ae27f)) |
 | 11:11 16-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: fix(brand): dong bo bieu tuong logo SVG va typography tren toan bo tr... ([`bcfc684`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/bcfc684dc4ce8feb148d2d4117c7f059f10a08d8)) |
-| 11:08 16-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: style(auth): loai bo dong chu do an mon hoc tren trang dang nhap va d... ([`8fcbe33`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/8fcbe33c51f5a8102f380d1144597d84d1f5c9b7)) |
-| 10:54 16-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: feat(bdd): tich hop Native Cucumber Runner vao Master Test Suite Orch... ([`3eb2047`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/3eb2047b633f87894a2629867b3bc8d9033e1ab4)) |
-| 10:17 16-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: docs(auth): dac ta ma tran phan quyen rbac va danh sach tai khoan dem... ([`aea7857`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/aea785775f3fc19a866c11c7fb87f4fd88eb0fd4)) |
-| 06:40 16-11 | ⭐ Starred [morluto/rea](https://github.com/morluto/rea) |
-| 04:58 16-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: feat(landing): cap nhat buong kinh sang phoi mau Xanh Luc Bao sang tr... ([`6bd3a1d`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/6bd3a1d9c0f0c5c963dd783bac1e616df151d726)) |
-| 04:48 16-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: feat(landing): tich hop phoi mau tuong phan cao cho Hero Section loai... ([`0b02b7a`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/0b02b7a94e30dd4f5486a8b1276bc705423980e5)) |
-| 04:35 16-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: feat(landing): dong bo 4 tab Hero tuong ung voi 4 phoi canh cong nghe... ([`0c04cb0`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/0c04cb0ba590ff5c8ae531a40f15f2bb30e20351)) |
-| 19:38 14-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: docs(workflow): thiet lap quy tac tu dong phan chia commit va uu tien... ([`ef1cf2e`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/ef1cf2ef6c91fcfdc57273080c6cdce210f8723a)) |
 <!--END_SECTION:activity-->
 
 <hr/>
