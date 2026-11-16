@@ -78,20 +78,20 @@
 
 ### ⚡ Recent Activity & Commits
 <!--START_SECTION:activity-->
-> 📈 **82** commits trong 7 ngày qua · **883** commits trong 12 tháng · **1026** contributions
+> 📈 **109** commits trong 7 ngày qua · **910** commits trong 12 tháng · **1053** contributions
 
 | 🕒 Thời gian (GMT+7) | Hoạt động |
 | :--- | :--- |
+| 06:40 16-11 | ⭐ Starred [morluto/rea](https://github.com/morluto/rea) |
+| 04:58 16-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: feat(landing): cap nhat buong kinh sang phoi mau Xanh Luc Bao sang tr... ([`6bd3a1d`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/6bd3a1d9c0f0c5c963dd783bac1e616df151d726)) |
+| 04:48 16-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: feat(landing): tich hop phoi mau tuong phan cao cho Hero Section loai... ([`0b02b7a`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/0b02b7a94e30dd4f5486a8b1276bc705423980e5)) |
+| 04:35 16-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: feat(landing): dong bo 4 tab Hero tuong ung voi 4 phoi canh cong nghe... ([`0c04cb0`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/0c04cb0ba590ff5c8ae531a40f15f2bb30e20351)) |
 | 19:38 14-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: docs(workflow): thiet lap quy tac tu dong phan chia commit va uu tien... ([`ef1cf2e`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/ef1cf2ef6c91fcfdc57273080c6cdce210f8723a)) |
 | 18:32 14-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: feat: them 28 phuong tien thong dung va xe hang sang cho du khach, su... ([`8a76d14`](https://github.com/BryannLee202/App_ITS/commit/8a76d1421c4327d137bfda85eece5e0e4555c3b9)) |
 | 18:07 14-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: feat(operator): dong bo ma tran khay realtime theo su kien tray:occup... ([`834735b`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/834735b1fd3c0d7689f7f3428179cf2b0a6b404b)) |
 | 17:47 14-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: feat: hoan thien tinh nang Nhom Gia Dinh va Ho So Doanh Nghiep VAT tr... ([`327e49e`](https://github.com/BryannLee202/App_ITS/commit/327e49ea9d6ac3b58c91d07b91661c9778e7f8d2)) |
 | 03:26 14-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: feat: dong bo mau nen co chu va kieu dang sang trong Quiet Luxury cho... ([`97a174f`](https://github.com/BryannLee202/App_ITS/commit/97a174fa689aa0ce8668a37acfa2a7d9a88c9ff4)) |
 | 03:21 14-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: feat: dong bo ti le dien thoai tren web desktop, luu tru va cap nhat ... ([`556b5a6`](https://github.com/BryannLee202/App_ITS/commit/556b5a6a162e85496a9d59572111b2e0906d3952)) |
-| 02:51 14-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: feat: nang cap the EcoGo Race thanh the chung nhan ESG Digital Pass s... ([`b698ef6`](https://github.com/BryannLee202/App_ITS/commit/b698ef6091b4045bd67acb04a28c6d5b7aaa75dd)) |
-| 01:24 14-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: style: thiet ke lai man hinh khoa xe digital key dong bo co chu sang ... ([`ee89c02`](https://github.com/BryannLee202/App_ITS/commit/ee89c027f16fbffe0fe06ebc6fe7b01196b560cb)) |
-| 00:39 14-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: feat: tich hop toan dien dat coc, hop dong dien tu ky so va cong than... ([`24cf471`](https://github.com/BryannLee202/App_ITS/commit/24cf471ade4faa46a6a88776aa8909dbd9836729)) |
-| 23:10 13-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: feat: kich hoat tuong tac 4 o tinh nang nhanh tren trang chu voi moda... ([`594334e`](https://github.com/BryannLee202/App_ITS/commit/594334ef373051e32dedbbf7f6761c3b6235636a)) |
 <!--END_SECTION:activity-->
 
 <hr/>
