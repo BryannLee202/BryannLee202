@@ -78,7 +78,7 @@
 
 ### ⚡ Recent Activity & Commits
 <!--START_SECTION:activity-->
-> 📈 **141** commits trong 7 ngày qua · **959** commits trong 12 tháng · **1102** contributions
+> 📈 **170** commits trong 7 ngày qua · **988** commits trong 12 tháng · **1131** contributions
 
 | 🕒 Thời gian (GMT+7) | Hoạt động |
 | :--- | :--- |
@@ -90,8 +90,8 @@
 | 20:37 16-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: chore(repo): don dep repository toi uu gitignore va bo sung tai lieu ... ([`1fdc910`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/1fdc910877b99c80ca2b5158df6aa19061d6a398)) |
 | 19:13 16-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: feat(frontend): tich hop MushroomBot AI Llama-3.1-8B vao Drawer va Ri... ([`baf3ba3`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/baf3ba33795308a3948bbe8aa1f1bf0322b93a60)) |
 | 18:59 16-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: style(hero): thiet ke lai he thong icon 3D da lop trang trong va chan... ([`b8a91e3`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/b8a91e35318e8561c5b99aa75c9916c3e8ddf948)) |
+| 18:56 16-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: style(sidebar): dong bo typography va thiet ke lai he thong icon tran... ([`5e822de`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/5e822de5969ecb35ea4d8e643fc120e8377635b4)) |
 | 18:43 16-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: feat(ui): tach mau nhip dieu phan vung Sang - Toi cong nghe cao va do... ([`b7bdb84`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/b7bdb842de8804d7943ae04a6a7c7995d7bca3d0)) |
-| 18:29 16-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: feat(ui): chuyen tien ich cai dat vao sidebar ben phai va dong bo tha... ([`285d25c`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/285d25c5143fb0a570051784ef639d4a9e53c4cc)) |
 <!--END_SECTION:activity-->
 
 <hr/>
