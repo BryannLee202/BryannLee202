@@ -78,20 +78,20 @@
 
 ### ⚡ Recent Activity & Commits
 <!--START_SECTION:activity-->
-> 📈 **184** commits trong 7 ngày qua · **1002** commits trong 12 tháng · **1145** contributions
+> 📈 **191** commits trong 7 ngày qua · **1013** commits trong 12 tháng · **1156** contributions
 
 | 🕒 Thời gian (GMT+7) | Hoạt động |
 | :--- | :--- |
+| 01:21 18-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: feat: bo sung Trung tam Van hanh Doi xe (EcoGo NOC) va thanh trang th... ([`a78a80d`](https://github.com/BryannLee202/App_ITS/commit/a78a80d1130dbb341ba00ee72c3cf4f94d22efb4)) |
 | 00:42 18-11 | ⭐ Starred [vercel-labs/skills](https://github.com/vercel-labs/skills) |
+| 00:07 18-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: perf: dieu chinh hieu ung xe chay man hinh chao cham vua phai roi moi... ([`2103b28`](https://github.com/BryannLee202/App_ITS/commit/2103b280ff355422f7bbbdab4d61655414b911f3)) |
+| 16:41 17-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: style: tinh gon cac nut loc nhien lieu va gia thue nam gon tren 1 don... ([`45dbe5f`](https://github.com/BryannLee202/App_ITS/commit/45dbe5fc1711804eaef21795db73c65b2a417137)) |
+| 16:18 17-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: feat: thay the toan bo popup quang cao bang anh chup thuc te sac net ... ([`4695d9a`](https://github.com/BryannLee202/App_ITS/commit/4695d9a1a2c4946a1a19a37f227395f951b28a7a)) |
+| 16:00 17-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: feat: sap xep bo loc xe gon gang logic theo phan khuc, bo trung lap v... ([`4507622`](https://github.com/BryannLee202/App_ITS/commit/4507622e0e7bf1aa812099c715221c440eb80fa6)) |
+| 15:59 17-11 | 🔨 Pushed to [HoRa-W/ComputerVision-GroupF](https://github.com/HoRa-W/ComputerVision-GroupF) `main`: feat: Complete Part A Harris and variants (A1 Harris-Laplace, A2 ANMS... ([`eb26829`](https://github.com/HoRa-W/ComputerVision-GroupF/commit/eb2682948249324056a8a2a9806e15528188fccd)) |
 | 15:18 17-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: feat: dong bo 100% voucher va quang cao ve chu de thue xe dien sac pi... ([`d2029b5`](https://github.com/BryannLee202/App_ITS/commit/d2029b594ca69b68e9b8ffdf676b64fef79e1571)) |
 | 14:53 17-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: feat: man hinh chao xe dien cute vu qua va logo toi gian trung tam ([`31874d0`](https://github.com/BryannLee202/App_ITS/commit/31874d05074ca43fadf3b5c2f97354cc95583bdc)) |
 | 14:19 17-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: feat: tich hop he thong xac thuc vien thong 5 lop chan so dien thoai ... ([`6e8f6d4`](https://github.com/BryannLee202/App_ITS/commit/6e8f6d4d2547bfc3417f85cdebb026a2c86f0d44)) |
-| 13:23 17-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: feat: them popup quang cao ngau nhien khi vao trang chu va khi out ra... ([`1bffb65`](https://github.com/BryannLee202/App_ITS/commit/1bffb65849298c5a572a9486be6291c10ad21f12)) |
-| 12:21 17-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: fix: triet de loi trang man hinh do thieu useRef va on dinh bundle.js... ([`6a29cb6`](https://github.com/BryannLee202/App_ITS/commit/6a29cb68364fd433b5e7d9e14031eab06cb3587e)) |
-| 12:09 17-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: fix: ho tro standalone pwa safari ios tu dong phuc hoi va icon man hi... ([`bf6cb20`](https://github.com/BryannLee202/App_ITS/commit/bf6cb208a384b4d5f95bc24b2f84f0abff42911a)) |
-| 11:50 17-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: fix: loai bo ma font crash gay trang man hinh va toi uu hoa nap font ... ([`b2e6afc`](https://github.com/BryannLee202/App_ITS/commit/b2e6afc5a8ae789b6754bb6148540dfd84c773c3)) |
-| 10:41 17-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: fix: khac phuc triet de loi icon hien o vuong tren web va mobile ([`2d721e6`](https://github.com/BryannLee202/App_ITS/commit/2d721e6371a9a7f9027012a7cfcc134913bd2939)) |
-| 10:20 17-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: feat: cap nhat duong dan api render live ecogo-m7ln ([`b03881c`](https://github.com/BryannLee202/App_ITS/commit/b03881c0aa565610ab5bb6b59af418e56590e4c3)) |
 <!--END_SECTION:activity-->
 
 <hr/>
