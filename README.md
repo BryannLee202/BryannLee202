@@ -82,16 +82,16 @@
 
 | 🕒 Thời gian (GMT+7) | Hoạt động |
 | :--- | :--- |
+| 02:23 18-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: feat: bo sung Dang nhap Mat khau, Dang ky, Quen mat khau va Doi mat k... ([`1ad9472`](https://github.com/BryannLee202/App_ITS/commit/1ad94721c58ea661344f4a17d57174c0a6003a35)) |
+| 02:11 18-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: feat: thiet lap tai khoan Admin Root dac quyen va luu Database chuan ... ([`0d7df6f`](https://github.com/BryannLee202/App_ITS/commit/0d7df6ff1e5360b19cc7676f705f2fc4672ed90b)) |
+| 01:38 18-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: ui: bo sung hieu ung chuyen dong spring va huy hieu icon cho Toast va... ([`dad25f1`](https://github.com/BryannLee202/App_ITS/commit/dad25f16a7584ae72f17526fd4cd660b28d72b6b)) |
 | 01:21 18-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: feat: bo sung Trung tam Van hanh Doi xe (EcoGo NOC) va thanh trang th... ([`a78a80d`](https://github.com/BryannLee202/App_ITS/commit/a78a80d1130dbb341ba00ee72c3cf4f94d22efb4)) |
+| 01:12 18-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: sec: gia co bao mat server voi HTTP Security Headers, gioi han payloa... ([`f36fc56`](https://github.com/BryannLee202/App_ITS/commit/f36fc56ff577837e82f5c73078c3d0d74ed2f0f5)) |
+| 00:43 18-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: test: bo sung bo kiem thu tu dong Playwright E2E cho EcoGo Smart ([`856f518`](https://github.com/BryannLee202/App_ITS/commit/856f518a99808028386edbd51f23f64093ff28d6)) |
 | 00:42 18-11 | ⭐ Starred [vercel-labs/skills](https://github.com/vercel-labs/skills) |
+| 00:28 18-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: feat: bo sung the meta PWA iOS va apple-touch-icon vao index.html ([`0626605`](https://github.com/BryannLee202/App_ITS/commit/0626605ff6764b7b289da4ba1305cd7d047aca78)) |
 | 00:07 18-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: perf: dieu chinh hieu ung xe chay man hinh chao cham vua phai roi moi... ([`2103b28`](https://github.com/BryannLee202/App_ITS/commit/2103b280ff355422f7bbbdab4d61655414b911f3)) |
-| 21:12 17-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: feat: loai bo form nhap tay Google, chuyen sang 100% Google OAuth 2.0... ([`87e07ca`](https://github.com/BryannLee202/App_ITS/commit/87e07ca4348010b099910e6f3503bb371aa7b632)) |
-| 21:01 17-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: refactor: xoa bo nut dang nhap Apple va toan bo ma lien quan, giu nut... ([`bc28d10`](https://github.com/BryannLee202/App_ITS/commit/bc28d10f1343524482f053c85c03d729782041c9)) |
-| 20:01 17-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: feat: tich hop Google OAuth 2.0 that, Apple ID Sign-In va sua loi nut... ([`307d942`](https://github.com/BryannLee202/App_ITS/commit/307d942a5f28a249fad31d2f9e0f043ffd34ec0d)) |
-| 19:51 17-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: fix: xoa o vuong mau den de len goc logo o man hinh yeu cau quyen vi tri ([`4c68e71`](https://github.com/BryannLee202/App_ITS/commit/4c68e717a44e69241eab040b57d9d3ef8b7a1f44)) |
-| 16:41 17-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: style: tinh gon cac nut loc nhien lieu va gia thue nam gon tren 1 don... ([`45dbe5f`](https://github.com/BryannLee202/App_ITS/commit/45dbe5fc1711804eaef21795db73c65b2a417137)) |
-| 16:18 17-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: feat: thay the toan bo popup quang cao bang anh chup thuc te sac net ... ([`4695d9a`](https://github.com/BryannLee202/App_ITS/commit/4695d9a1a2c4946a1a19a37f227395f951b28a7a)) |
-| 16:00 17-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: feat: sap xep bo loc xe gon gang logic theo phan khuc, bo trung lap v... ([`4507622`](https://github.com/BryannLee202/App_ITS/commit/4507622e0e7bf1aa812099c715221c440eb80fa6)) |
+| 23:19 17-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: feat: dong bo chuyen doi da ngon ngu EN/VI cho cac man hinh chinh ([`9fde3fe`](https://github.com/BryannLee202/App_ITS/commit/9fde3fee0b2a6ee4f9c6745e5d69a633729ac6c6)) |
 <!--END_SECTION:activity-->
 
 <hr/>
