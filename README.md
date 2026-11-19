@@ -84,14 +84,14 @@
 | :--- | :--- |
 | 02:23 18-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: feat: bo sung Dang nhap Mat khau, Dang ky, Quen mat khau va Doi mat k... ([`1ad9472`](https://github.com/BryannLee202/App_ITS/commit/1ad94721c58ea661344f4a17d57174c0a6003a35)) |
 | 02:11 18-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: feat: thiet lap tai khoan Admin Root dac quyen va luu Database chuan ... ([`0d7df6f`](https://github.com/BryannLee202/App_ITS/commit/0d7df6ff1e5360b19cc7676f705f2fc4672ed90b)) |
+| 01:55 18-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: feat: tich hop Tro ly EcoGo AI Concierge tren Trang chu va AI Tu dong... ([`1631966`](https://github.com/BryannLee202/App_ITS/commit/1631966e3e78e89ffb183bd55a994a8ec0e4ce96)) |
 | 01:38 18-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: ui: bo sung hieu ung chuyen dong spring va huy hieu icon cho Toast va... ([`dad25f1`](https://github.com/BryannLee202/App_ITS/commit/dad25f16a7584ae72f17526fd4cd660b28d72b6b)) |
+| 01:29 18-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: ui: thay hop thoai trinh duyet bang Toast va hop xac nhan nho gon ben... ([`4eaad52`](https://github.com/BryannLee202/App_ITS/commit/4eaad52bb6409b875457eb9bfd0a20c5a247060f)) |
 | 01:21 18-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: feat: bo sung Trung tam Van hanh Doi xe (EcoGo NOC) va thanh trang th... ([`a78a80d`](https://github.com/BryannLee202/App_ITS/commit/a78a80d1130dbb341ba00ee72c3cf4f94d22efb4)) |
 | 01:12 18-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: sec: gia co bao mat server voi HTTP Security Headers, gioi han payloa... ([`f36fc56`](https://github.com/BryannLee202/App_ITS/commit/f36fc56ff577837e82f5c73078c3d0d74ed2f0f5)) |
 | 00:43 18-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: test: bo sung bo kiem thu tu dong Playwright E2E cho EcoGo Smart ([`856f518`](https://github.com/BryannLee202/App_ITS/commit/856f518a99808028386edbd51f23f64093ff28d6)) |
 | 00:42 18-11 | ⭐ Starred [vercel-labs/skills](https://github.com/vercel-labs/skills) |
 | 00:28 18-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: feat: bo sung the meta PWA iOS va apple-touch-icon vao index.html ([`0626605`](https://github.com/BryannLee202/App_ITS/commit/0626605ff6764b7b289da4ba1305cd7d047aca78)) |
-| 00:07 18-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: perf: dieu chinh hieu ung xe chay man hinh chao cham vua phai roi moi... ([`2103b28`](https://github.com/BryannLee202/App_ITS/commit/2103b280ff355422f7bbbdab4d61655414b911f3)) |
-| 23:19 17-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: feat: dong bo chuyen doi da ngon ngu EN/VI cho cac man hinh chinh ([`9fde3fe`](https://github.com/BryannLee202/App_ITS/commit/9fde3fee0b2a6ee4f9c6745e5d69a633729ac6c6)) |
 <!--END_SECTION:activity-->
 
 <hr/>
