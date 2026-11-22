@@ -78,20 +78,20 @@
 
 ### ⚡ Recent Activity & Commits
 <!--START_SECTION:activity-->
-> 📈 **640** commits trong 7 ngày qua · **1948** commits trong 12 tháng · **2091** contributions
+> 📈 **645** commits trong 7 ngày qua · **1953** commits trong 12 tháng · **2096** contributions
 
 | 🕒 Thời gian (GMT+7) | Hoạt động |
 | :--- | :--- |
+| 04:11 23-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: xóa hộp thông tin bóc tách che khuất mô hình 3d ([`9bdf0e9`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/9bdf0e99e8bc10b7a65f9ddec52c2906903ca27d)) |
+| 01:40 23-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: sửa độ tương phản thẻ bóc tách và ẩn nhãn bị cắt mép khi zoom 3D ([`f8e402a`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/f8e402ab216462d6a3bcd25d6b66c1ecc27d2549)) |
+| 01:35 23-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: thêm hiệu ứng zoom bóc tách 5 lớp và chỉnh ánh sáng trên mô hình 3D ([`a6d1c3d`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/a6d1c3d7523bb15b105e546b568266d9f43734e4)) |
+| 01:25 23-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: dựng lại trang trại 3D theo đúng 4 cấp chuyển cảnh của reel the solenne ([`37632d1`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/37632d17a09b90cea7234a4607c675942ecb9db6)) |
+| 01:12 23-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: nâng cấp chi tiết sắc nét và điều khiển trực tiếp trên mô hình 3D ([`0db5919`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/0db5919cbba8708e5175953494aec34c4674d527)) |
+| 01:08 23-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: nâng cấp trang trại 3D với bóc tách từng lớp và tua video theo cuộn c... ([`5625f90`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/5625f9084ae2961771b4d3a6a83c3c1c1f5c42db)) |
 | 23:24 22-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: feat(operator): merge PR #17 Admin User Management & RBAC (A3) ([`92f67fa`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/92f67fadfc165dc92e97c9ba348445ab9575689e)) |
+| 23:09 22-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: ui(hub): hide IoT notifications block when guest is not logged in ([`7f5d1b1`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/7f5d1b147e9af1fe61c2a9428338316f45e735b3)) |
 | 22:58 22-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: ui(operator): remove bottom status overlay bar in camera viewport ([`213dde6`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/213dde6f36cdfed491616a6fe5f584d7fb100f77)) |
 | 22:07 22-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: style(navbar): bo cham tron ben trong o chuc nang dang chon cho gon gang ([`c3573b8`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/c3573b8c8f9c9ebf8d99739b6a1ad562b0b3a39d)) |
-| 20:11 22-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: fix(i18n): phu toan bo tu dien Viet-Anh va khop khong phan biet hoa t... ([`4cc3f73`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/4cc3f73a9f5dcfaaa3476c7623b9f59f3a59523b)) |
-| 19:49 22-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: style(theme): nang cap Dark Mode sang tong Soft Warm Charcoal diu mat... ([`8820a5a`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/8820a5ac1a5a7af58c67d5b2ff54f6cc1b089e00)) |
-| 19:33 22-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: style(branding): bo nhan vai tro tren tieu de tab va tich hop favicon... ([`f6c4f2c`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/f6c4f2c3266e9f375d88dfa053711e30fe65bc61)) |
-| 19:03 22-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: fix(backend): non-blocking server startup and resilient offline demo ... ([`999eaf9`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/999eaf9e209e0c8f78c8bf50a1ff6a50c8c00e3c)) |
-| 18:47 22-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: chore(git): cap nhat quy chuan 100% commit duoi ten chu du an LeMinhTai ([`1e7c25d`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/1e7c25d579fa3cdf157f9f5d38ea33b32c533b9b)) |
-| 16:53 20-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: feat(profile): chuyen toan bo lich su mua hang va chung tu hop dong d... ([`cdb5a3c`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/cdb5a3cd9e21eb08aca4d88d1a5ea7ca228ac265)) |
-| 16:35 20-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: style(checkout): loai bo khung thong bao ky thuat thua, dong bo icon ... ([`1c30999`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/1c30999808f45a24cba720c90e07e5cfc11551fe)) |
 <!--END_SECTION:activity-->
 
 <hr/>
