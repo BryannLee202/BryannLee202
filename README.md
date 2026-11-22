@@ -78,20 +78,20 @@
 
 ### ⚡ Recent Activity & Commits
 <!--START_SECTION:activity-->
-> 📈 **142** commits trong 7 ngày qua · **1025** commits trong 12 tháng · **1168** contributions
+> 📈 **640** commits trong 7 ngày qua · **1948** commits trong 12 tháng · **2091** contributions
 
 | 🕒 Thời gian (GMT+7) | Hoạt động |
 | :--- | :--- |
+| 23:24 22-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: feat(operator): merge PR #17 Admin User Management & RBAC (A3) ([`92f67fa`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/92f67fadfc165dc92e97c9ba348445ab9575689e)) |
+| 22:58 22-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: ui(operator): remove bottom status overlay bar in camera viewport ([`213dde6`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/213dde6f36cdfed491616a6fe5f584d7fb100f77)) |
+| 22:07 22-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: style(navbar): bo cham tron ben trong o chuc nang dang chon cho gon gang ([`c3573b8`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/c3573b8c8f9c9ebf8d99739b6a1ad562b0b3a39d)) |
+| 20:11 22-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: fix(i18n): phu toan bo tu dien Viet-Anh va khop khong phan biet hoa t... ([`4cc3f73`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/4cc3f73a9f5dcfaaa3476c7623b9f59f3a59523b)) |
+| 19:49 22-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: style(theme): nang cap Dark Mode sang tong Soft Warm Charcoal diu mat... ([`8820a5a`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/8820a5ac1a5a7af58c67d5b2ff54f6cc1b089e00)) |
+| 19:33 22-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: style(branding): bo nhan vai tro tren tieu de tab va tich hop favicon... ([`f6c4f2c`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/f6c4f2c3266e9f375d88dfa053711e30fe65bc61)) |
+| 19:03 22-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: fix(backend): non-blocking server startup and resilient offline demo ... ([`999eaf9`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/999eaf9e209e0c8f78c8bf50a1ff6a50c8c00e3c)) |
+| 18:47 22-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: chore(git): cap nhat quy chuan 100% commit duoi ten chu du an LeMinhTai ([`1e7c25d`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/1e7c25d579fa3cdf157f9f5d38ea33b32c533b9b)) |
+| 16:53 20-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: feat(profile): chuyen toan bo lich su mua hang va chung tu hop dong d... ([`cdb5a3c`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/cdb5a3cd9e21eb08aca4d88d1a5ea7ca228ac265)) |
 | 16:35 20-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: style(checkout): loai bo khung thong bao ky thuat thua, dong bo icon ... ([`1c30999`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/1c30999808f45a24cba720c90e07e5cfc11551fe)) |
-| 15:47 20-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: style(ai-agent): chuyen doi nut trigger thanh dang hinh tron hoan toa... ([`3e4078a`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/3e4078ad62c756c74fc6985170f0452932d63ba8)) |
-| 02:23 18-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: feat: bo sung Dang nhap Mat khau, Dang ky, Quen mat khau va Doi mat k... ([`1ad9472`](https://github.com/BryannLee202/App_ITS/commit/1ad94721c58ea661344f4a17d57174c0a6003a35)) |
-| 02:11 18-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: feat: thiet lap tai khoan Admin Root dac quyen va luu Database chuan ... ([`0d7df6f`](https://github.com/BryannLee202/App_ITS/commit/0d7df6ff1e5360b19cc7676f705f2fc4672ed90b)) |
-| 01:55 18-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: feat: tich hop Tro ly EcoGo AI Concierge tren Trang chu va AI Tu dong... ([`1631966`](https://github.com/BryannLee202/App_ITS/commit/1631966e3e78e89ffb183bd55a994a8ec0e4ce96)) |
-| 01:38 18-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: ui: bo sung hieu ung chuyen dong spring va huy hieu icon cho Toast va... ([`dad25f1`](https://github.com/BryannLee202/App_ITS/commit/dad25f16a7584ae72f17526fd4cd660b28d72b6b)) |
-| 01:29 18-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: ui: thay hop thoai trinh duyet bang Toast va hop xac nhan nho gon ben... ([`4eaad52`](https://github.com/BryannLee202/App_ITS/commit/4eaad52bb6409b875457eb9bfd0a20c5a247060f)) |
-| 01:21 18-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: feat: bo sung Trung tam Van hanh Doi xe (EcoGo NOC) va thanh trang th... ([`a78a80d`](https://github.com/BryannLee202/App_ITS/commit/a78a80d1130dbb341ba00ee72c3cf4f94d22efb4)) |
-| 01:12 18-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: sec: gia co bao mat server voi HTTP Security Headers, gioi han payloa... ([`f36fc56`](https://github.com/BryannLee202/App_ITS/commit/f36fc56ff577837e82f5c73078c3d0d74ed2f0f5)) |
-| 00:43 18-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: test: bo sung bo kiem thu tu dong Playwright E2E cho EcoGo Smart ([`856f518`](https://github.com/BryannLee202/App_ITS/commit/856f518a99808028386edbd51f23f64093ff28d6)) |
 <!--END_SECTION:activity-->
 
 <hr/>
