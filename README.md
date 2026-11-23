@@ -78,20 +78,20 @@
 
 ### ⚡ Recent Activity & Commits
 <!--START_SECTION:activity-->
-> 📈 **645** commits trong 7 ngày qua · **1953** commits trong 12 tháng · **2096** contributions
+> 📈 **682** commits trong 7 ngày qua · **1990** commits trong 12 tháng · **2134** contributions
 
 | 🕒 Thời gian (GMT+7) | Hoạt động |
 | :--- | :--- |
+| 07:50 23-11 | 🍴 Forked [khanh020905/my-office](https://github.com/khanh020905/my-office) |
+| 07:50 23-11 | ⭐ Starred [khanh020905/my-office](https://github.com/khanh020905/my-office) |
+| 07:42 23-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: thêm chức năng sửa thông tin cá nhân và đổi mật khẩu ở trang hồ sơ ([`279dd77`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/279dd7733fad2f8bb6d0a93d349f228d0455eefa)) |
+| 07:12 23-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: dong bo 3 buong nam thuc te va toi uu camera khay nam vua van ([`0d42b66`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/0d42b66a0dfb22f2707c15053971c1894f76b7d8)) |
+| 06:54 23-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: xoa nut debug socket 5000 tren thanh menu trang dieu hanh ([`e0704cc`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/e0704cc196ba949d935862ec23d94a41f3c61a80)) |
+| 04:46 23-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: thay anh quang pho led buong sach cho lop iot tren trang 3d ([`ccd2ad2`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/ccd2ad2fca529216c2c6f7e0bf17fb14cf2fc4ec)) |
 | 04:11 23-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: xóa hộp thông tin bóc tách che khuất mô hình 3d ([`9bdf0e9`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/9bdf0e99e8bc10b7a65f9ddec52c2906903ca27d)) |
 | 01:40 23-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: sửa độ tương phản thẻ bóc tách và ẩn nhãn bị cắt mép khi zoom 3D ([`f8e402a`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/f8e402ab216462d6a3bcd25d6b66c1ecc27d2549)) |
 | 01:35 23-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: thêm hiệu ứng zoom bóc tách 5 lớp và chỉnh ánh sáng trên mô hình 3D ([`a6d1c3d`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/a6d1c3d7523bb15b105e546b568266d9f43734e4)) |
 | 01:25 23-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: dựng lại trang trại 3D theo đúng 4 cấp chuyển cảnh của reel the solenne ([`37632d1`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/37632d17a09b90cea7234a4607c675942ecb9db6)) |
-| 01:12 23-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: nâng cấp chi tiết sắc nét và điều khiển trực tiếp trên mô hình 3D ([`0db5919`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/0db5919cbba8708e5175953494aec34c4674d527)) |
-| 01:08 23-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: nâng cấp trang trại 3D với bóc tách từng lớp và tua video theo cuộn c... ([`5625f90`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/5625f9084ae2961771b4d3a6a83c3c1c1f5c42db)) |
-| 23:24 22-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: feat(operator): merge PR #17 Admin User Management & RBAC (A3) ([`92f67fa`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/92f67fadfc165dc92e97c9ba348445ab9575689e)) |
-| 23:09 22-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: ui(hub): hide IoT notifications block when guest is not logged in ([`7f5d1b1`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/7f5d1b147e9af1fe61c2a9428338316f45e735b3)) |
-| 22:58 22-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: ui(operator): remove bottom status overlay bar in camera viewport ([`213dde6`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/213dde6f36cdfed491616a6fe5f584d7fb100f77)) |
-| 22:07 22-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: style(navbar): bo cham tron ben trong o chuc nang dang chon cho gon gang ([`c3573b8`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/c3573b8c8f9c9ebf8d99739b6a1ad562b0b3a39d)) |
 <!--END_SECTION:activity-->
 
 <hr/>
