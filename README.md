@@ -78,10 +78,11 @@
 
 ### ⚡ Recent Activity & Commits
 <!--START_SECTION:activity-->
-> 📈 **682** commits trong 7 ngày qua · **1990** commits trong 12 tháng · **2134** contributions
+> 📈 **185** commits trong 7 ngày qua · **1994** commits trong 12 tháng · **2138** contributions
 
 | 🕒 Thời gian (GMT+7) | Hoạt động |
 | :--- | :--- |
+| 07:06 24-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: docs: modernize README with SEAL\_HACKATHON editorial style, badges, f... ([`b76f24a`](https://github.com/BryannLee202/App_ITS/commit/b76f24a8a5fd123ee42117b5a531eae628ebb916)) |
 | 08:18 23-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: tối ưu giữ lại duy nhất một nút đăng nhập google gọn gàng ([`75290ed`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/75290ed7cc26d4f4d3c0e428f3a4da8994b1d78c)) |
 | 08:14 23-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: cập nhật nút đăng nhập google chính thức kèm client id ([`72f9d49`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/72f9d49398d594ac6d0a093fd113c05cc5a4cece)) |
 | 07:50 23-11 | 🍴 Forked [khanh020905/my-office](https://github.com/khanh020905/my-office) |
@@ -91,7 +92,6 @@
 | 06:54 23-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: xoa nut debug socket 5000 tren thanh menu trang dieu hanh ([`e0704cc`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/e0704cc196ba949d935862ec23d94a41f3c61a80)) |
 | 04:46 23-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: thay anh quang pho led buong sach cho lop iot tren trang 3d ([`ccd2ad2`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/ccd2ad2fca529216c2c6f7e0bf17fb14cf2fc4ec)) |
 | 04:15 23-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: thu gọn nút tài khoản trên thanh menu thành avatar tròn tinh gọn ([`889277b`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/889277be9aba38b7ca3778516da2cbf8ac6ce2b7)) |
-| 04:11 23-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: xóa hộp thông tin bóc tách che khuất mô hình 3d ([`9bdf0e9`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/9bdf0e99e8bc10b7a65f9ddec52c2906903ca27d)) |
 <!--END_SECTION:activity-->
 
 <hr/>
