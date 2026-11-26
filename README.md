@@ -82,6 +82,7 @@
 
 | 🕒 Thời gian (GMT+7) | Hoạt động |
 | :--- | :--- |
+| 14:03 25-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: gộp nhánh quản lý buồng nuôi và quản trị người dùng từ pr 19 ([`ecb2f4e`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/ecb2f4e8f58a5094a95302e9068dab16fe53d722)) |
 | 07:15 24-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: docs: restructure Chapter 7 with Black-box testing methodologies (EP,... ([`45ddc6a`](https://github.com/BryannLee202/App_ITS/commit/45ddc6af458f4205a34254c8c26b0926fa6a0014)) |
 | 07:06 24-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: docs: modernize README with SEAL\_HACKATHON editorial style, badges, f... ([`b76f24a`](https://github.com/BryannLee202/App_ITS/commit/b76f24a8a5fd123ee42117b5a531eae628ebb916)) |
 | 06:25 24-11 | 🔨 Pushed to [BryannLee202/App_ITS](https://github.com/BryannLee202/App_ITS) `main`: ui: toi uu giao dien Dang nhap hien dai gon gang voi lien ket Quen ma... ([`12af9cb`](https://github.com/BryannLee202/App_ITS/commit/12af9cbf3f650dbc59939aa9c37820ad567537b3)) |
@@ -91,7 +92,6 @@
 | 07:50 23-11 | ⭐ Starred [khanh020905/my-office](https://github.com/khanh020905/my-office) |
 | 07:42 23-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: thêm chức năng sửa thông tin cá nhân và đổi mật khẩu ở trang hồ sơ ([`279dd77`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/279dd7733fad2f8bb6d0a93d349f228d0455eefa)) |
 | 07:22 23-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: mo so do khay cong khai va sua loi nut chon khay tren trang 3d ([`3569fb4`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/3569fb4f0b4801d992d9b0d5c36a94e386ebf8b3)) |
-| 07:12 23-11 | 🔨 Pushed to [BryannLee202/QUAN_TRI_CSDL](https://github.com/BryannLee202/QUAN_TRI_CSDL) `main`: dong bo 3 buong nam thuc te va toi uu camera khay nam vua van ([`0d42b66`](https://github.com/BryannLee202/QUAN_TRI_CSDL/commit/0d42b66a0dfb22f2707c15053971c1894f76b7d8)) |
 <!--END_SECTION:activity-->
 
 <hr/>
